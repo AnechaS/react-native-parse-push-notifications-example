@@ -1,5 +1,7 @@
 # React Native Parse Push Notifications Sample
 
+react native sample push notifications by ParseSDK
+ 
 ## Installation
 `npm install` or `yarn`
 
