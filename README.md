@@ -1,4 +1,4 @@
-# React Native Simple Parse Push Notifications
+# React Native Sample Parse Push Notifications
 
 ## Installation
 `npm install` or `yarn`
