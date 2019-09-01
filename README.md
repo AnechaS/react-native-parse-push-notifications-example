@@ -1,5 +1,4 @@
 # react-native-parse-push-notifications-sample
-react-native-parse-push-notifications-sample
  
 ## Installation
 `npm install` or `yarn`
