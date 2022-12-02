@@ -13,9 +13,9 @@ export default class App extends Component {
             console.log( 'NOTIFICATION:', notification );
         },
         permissions: {
-        alert: true,
-        badge: true,
-        sound: true
+          alert: true,
+          badge: true,
+          sound: true
         },
         requestPermissions: true
     });
